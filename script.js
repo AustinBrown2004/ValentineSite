@@ -22,10 +22,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function showImages() {
         const images = [
-            "images/image1.jpg", "images/image2.jpg", "images/image3.jpg", "images/image4.jpg", 
-            "images/image5.jpg", "images/image6.jpg", "images/image7.jpg", "images/image8.jpg", "images/image9.jpg",
-            "images/image10.jpg", "images/image11.jpg", "images/image12.jpg", "images/image13.jpg", "images/image14.jpg",
-            "images/image15.jpg", "images/image16.jpg"
+            "https://austinbrown2004.github.io/ValentineSite/images/image1.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image2.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image3.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image4.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image5.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image6.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image7.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image8.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image9.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image10.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image11.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image12.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image13.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image14.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image15.jpg",
+            "https://austinbrown2004.github.io/ValentineSite/images/image16.jpg"
         ];
         
         const positions = [

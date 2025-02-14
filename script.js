@@ -22,21 +22,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function showImages() {
         const images = [
-            "images/image1.jpg",
+            "images/image1.JPG",
             "images/image2.jpg",
-            "images/image3.jpg",
+            "images/image3.JPG",
             "images/image4.jpg",
-            "images/image5.jpg",
-            "images/image6.jpg",
-            "images/image7.jpg",
+            "images/image5.JPG",
+            "images/image6.JPG",
+            "images/image7.JPG",
             "images/image8.jpg",
             "images/image9.jpg",
-            "images/image10.jpg",
+            "images/image10.JPG",
             "images/image11.jpg",
-            "images/image12.jpg",
+            "images/image12.JPG",
             "images/image13.jpg",
             "images/image14.jpg",
-            "images/image15.jpg",
+            "images/image15.JPG",
             "images/image16.jpg"
         ];
         
